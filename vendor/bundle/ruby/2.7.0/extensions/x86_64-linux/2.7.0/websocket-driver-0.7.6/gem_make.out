@@ -1,0 +1,15 @@
+current directory: /home/developer/Monesh_workspace/crm_api/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+/home/developer/.rvm/rubies/ruby-2.7.0/bin/ruby -I /home/developer/.rvm/rubies/ruby-2.7.0/lib/ruby/2.7.0 -r ./siteconf20230927-288641-1evyghm.rb extconf.rb
+creating Makefile
+
+current directory: /home/developer/Monesh_workspace/crm_api/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /home/developer/Monesh_workspace/crm_api/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: /home/developer/Monesh_workspace/crm_api/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+make "DESTDIR=" install
+/usr/bin/install -m 0755 websocket_mask.so ./.gem.20230927-288641-fktsh2
