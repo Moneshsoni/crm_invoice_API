@@ -26,6 +26,7 @@ gem 'bootsnap', '>= 1.4.4', require: false
 gem 'rack-cors'
 
 gem 'pry'
+
 gem 'racc'
 #Contact authentications
 gem 'devise'
